@@ -7,18 +7,23 @@
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <h3>👩🏾‍💻 Professional Summary</h3>
+      <h3>👩🏾‍💻 Hello There, It's Ardine🥰😉</h3>
       <p>
         I am a <b>results-driven Software Engineer</b> with hands-on experience developing full-stack applications using <b>JavaScript, React, Nest, Next and Node.js</b>. 
       </p>
       <p>
-        I am proficient in building responsive UIs, scalable backends, and leveraging modern technologies including AI tools. I am a fast learner with strong problem-solving, collaboration, and public speaking skills, fluent in four languages, and passionate about creating impactful software solutions.
+        I am a lot of things, Let me not keep you for too long. I hope you get what you're looking for 🤗.
+
+        🛠️ **About a littleBIO!**
+
+Honestly... lately I feel like I am crossing a **Hidden Layer**. 
+
+Why? Because I’m currently undergoing a massive transformation. I’m taking on "unlabeled data" in the form of complex projects in internships.
+
+I have no idea what the final output layer looks like yet. I’m just trusting the **Stochastic Gradient Descent** of my journey—constantly optimizing, reducing my "loss function," and moving toward a global minimum of excellence.
+
+Yeap! I am no different from the inputs in a **Neural Network's hidden layer** 😆
       </p>
-      <ul>
-        <li>🎓 <b>Education:</b> B.S. in Software Engineering @ African Leadership University.</li>
-        <li>🚀 <b>Currently:</b> Frontend Developer Intern @ Kigali Business Lab.</li>
-        <li>🏆 <b>Academic Excellence:</b> GPA of 4.43/5.0 and CMU Africa Graduate Bridge Alumna.</li>
-      </ul>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://camo.githubusercontent.com/09b1d662d23b9000ba44455084d3174f9e3c1e9104aa66cba3b86745af61ba28/68747470733a2f2f7777772e6e74632e6564752f73697465732f64656661756c742f66696c65732f7374796c65732f66756c6c5f77696474685f31365f392f7075626c69632f323032312d30362f736f6674776172652d646576656c6f706d656e742d7370656369616c6973742e6a70673f69746f6b3d4438716756777862" alt="MasterHead" data-canonical-src="https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg?itok=D8qgVwxb" alt="Coding Woman" />
