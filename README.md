@@ -17,20 +17,20 @@
       <hr />
       <h4>🛠️ About a little BIO!</h4>
       <p>
-        Honestly... lately I feel like I am crossing a <b>Hidden Layer</b>. 
+        Honestly... lately I feel like I am crossing a <b>Hidden Layer🥺🤦🏻‍♀️</b>. 
       </p>
       <p>
         Why? Because I’m currently undergoing a massive transformation. I’m taking on "unlabeled data" in the form of complex projects in internships.
       </p>
       <p>
-        I have no idea what the final <b>output layer</b> looks like yet. I’m just trusting the <b>Stochastic Gradient Descent</b> of my journey—constantly optimizing, reducing my "loss function," and moving toward a global minimum of excellence.
+        I have no idea what the final <b>output layer</b> looks like yet. I’m just trusting the <b>Stochastic Gradient Descent</b> of my journey constantly optimizing, reducing my "loss function," and moving toward a global minimum of excellence.
       </p>
       <p>
         Yeap! I am no different from the inputs in a <b>Neural Network's hidden layer</b> 😆
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://illustrations.popsy.co/pink/woman-working-on-laptop.svg" width="300px" alt="Coding Woman" />
+      <img src="https://camo.githubusercontent.com/09b1d662d23b9000ba44455084d3174f9e3c1e9104aa66cba3b86745af61ba28/68747470733a2f2f7777772e6e74632e6564752f73697465732f64656661756c742f66696c65732f7374796c65732f66756c6c5f77696474685f31365f392f7075626c69632f323032312d30362f736f6674776172652d646576656c6f706d656e742d7370656369616c6973742e6a70673f69746f6b3d4438716756777862" alt="MasterHead" data-canonical-src="https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg?itok=D8qgVwxb" alt="Coding Woman" />
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@
   <a href="mailto:nukuriardinemartine@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFB7C5?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ardine-nukuri-852467241/">
+  <a href="https://www.linkedin.com/in/ardine-martine-nukuri-467642241/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
 </div>
