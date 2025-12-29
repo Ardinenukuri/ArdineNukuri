@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=FFB7C5&height=200&section=header&text=Ardine%20Martine%20Nukuri&fontSize=50" alt="header" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=200&section=header&text=Ardine%20Martine%20Nukuri&fontSize=50" alt="header" />
 </div>
 
 <br />
