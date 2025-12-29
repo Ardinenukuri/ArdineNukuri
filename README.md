@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Ardine%20Martine%20Nukuri&fontSize=60&animation=fadeIn&fontAlignY=35&theme=rose" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=rose&height=200&section=header&text=Ardine%20Martine%20Nukuri&fontSize=50" alt="header" />
 </div>
 
 <br />
@@ -21,8 +21,8 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- High-stability professional illustration -->
-      <img src="https://raw.githubusercontent.com/Ardinenukuri/Ardinenukuri/main/coding-illustration.png" onerror="this.src='https://illustrations.popsy.co/pink/woman-working-on-laptop.svg'" width="350px" />
+      <!-- Direct link to a stable feminine tech illustration -->
+      <img src="https://illustrations.popsy.co/pink/woman-working-on-laptop.svg" width="300px" alt="coding illustration" />
     </td>
   </tr>
 </table>
