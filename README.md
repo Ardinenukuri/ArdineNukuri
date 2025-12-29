@@ -22,7 +22,7 @@
     </td>
     <td width="40%" align="center" valign="middle">
       <!-- Fixed: Using a high-stability animated icon that GitHub trusts -->
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist%20Medium-Dark%20Skin%20Tone.png" width="250px" alt="Coding Woman" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist%20Medium-Dark%20Skin%20Tone.png" width="250px" alt="coding illustration" />
     </td>
   </tr>
 </table>
