@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/People/Woman%20Technologist/Woman%20Technologist%20Medium-Dark%20Skin%20Tone.png?v=2" width="250" alt="Coding Woman" />
+      <img src="https://camo.githubusercontent.com/09b1d662d23b9000ba44455084d3174f9e3c1e9104aa66cba3b86745af61ba28/68747470733a2f2f7777772e6e74632e6564752f73697465732f64656661756c742f66696c65732f7374796c65732f66756c6c5f77696474685f31365f392f7075626c69632f323032312d30362f736f6674776172652d646576656c6f706d656e742d7370656369616c6973742e6a70673f69746f6b3d4438716756777862" alt="MasterHead" data-canonical-src="https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg?itok=D8qgVwxb" alt="Coding Woman" />
     </td>
   </tr>
 </table>
